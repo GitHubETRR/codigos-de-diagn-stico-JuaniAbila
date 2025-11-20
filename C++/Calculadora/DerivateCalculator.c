@@ -21,7 +21,7 @@ int main (void)
 {
    char Select;
    Welcome();
-   printf("Tutuca was here");
+   printf"Elegi la operacion que queres hacer\n Presiona:\n    * para multiplicar\n    / para dividir\n  d para derivar";
    scanf("%c",&Select);
    
    switch(Select)
@@ -92,7 +92,7 @@ void Request(int Grade)
    {
          case 0:
             printf("Ingrese la ordenada al origen de su funcion: ");
-            printf("Tutuca was here");
+            scanf()
 
                break;
          case 1:
